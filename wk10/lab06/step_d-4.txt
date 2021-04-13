@@ -1,0 +1,3 @@
+I see the root folders of my droplet
+
+the problem is that all the root folders are now shown in the browser

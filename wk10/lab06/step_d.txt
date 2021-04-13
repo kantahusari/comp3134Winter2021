@@ -1,0 +1,3 @@
+I see a warning that says fail opening the file and no such directory is found.
+
+the sensitive information given are the root directory of droplet

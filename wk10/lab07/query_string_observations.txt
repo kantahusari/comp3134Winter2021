@@ -1,0 +1,8 @@
+01 - once hello world is written and queried, the link of the page changed inot: 
+https://www.dictionary.com/browse/hello
+
+02 - changing the link will perform the same functionality as of typing inside the webpage form
+
+03- after injecting the JavaScript script into the form, the form prevented this injection and directed the user to another link with /noresult extension
+
+04- the website prevented the changes and also did not allow the injection by changing the website url

@@ -1,0 +1,1 @@
+by using the strip function, we are preventing script injection into the form. so the data will not be injected into the server

@@ -1,0 +1,3 @@
+I see the content of www folder
+
+the problem is that i can navigate to any folder of the droplet
